@@ -41,6 +41,9 @@ Eventually this might be used to indicate which proteins in the clock pathway in
 * seaborn
 
 # Progress
+## 10/09/24
+* got clock protein interaction scores from AlphaFold interaction scores  
+
 ## 10/08/24
 * created the following files:
     * clock_RF_score_matrix_sorted.csv
