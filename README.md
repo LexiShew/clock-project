@@ -10,6 +10,15 @@ Eventually this might be used to indicate which proteins in the clock pathway in
 * figure out what cancer hallmarks are
 * document files...
 
+* plot hist of RF and AF values
+* AF3
+    * compare to multimer
+    * follow their process from AF2
+    * get seqs
+    * AF3 API
+        * pick non-interacting pairs
+        * pick interacting pairs
+
 # Files
 ## Data
 * `RF_scores`: all pairwise PPI scores for the entire human proteome? maybe?
